@@ -5,7 +5,6 @@ import java.util.Random;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.Alert;
-import org.openqa.selenium.By;
 import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
@@ -56,121 +55,121 @@ public class Elements {
 		return Base.driver.getTitle();
 	}
 	
-	public static String getCurrentUrl(){
+	public String getCurrentUrl(){
 		return Base.driver.getCurrentUrl();
 	}
 
-	public static boolean isSelected(WebElement element) {
+	public boolean isSelected(WebElement element) {
 		if (element.isSelected()) 
 			return true;
 		return false;
 	}
 
-	public static void selectCheckBox(WebElement element) {
+	public void selectCheckBox(WebElement element) {
 		if (!isSelected(element))
 			element.click();
 	}
 
-	public static  void deSelectCheckbox(WebElement element) {
+	public void deSelectCheckbox(WebElement element) {
 		if (isSelected(element))
 			element.click();
 	}
 
-	public static void selectRadioButton(WebElement element) {
+	public void selectRadioButton(WebElement element) {
 		if (!isSelected(element))
 			element.click();
 	}
 
-	public static void deSelectRadioButton(WebElement element) {
+	public void deSelectRadioButton(WebElement element) {
 		if (isSelected(element))
 			element.click();
 	}
 	
-	public static boolean isEnabled(WebElement element){
+	public boolean isEnabled(WebElement element){
 		if(element.isEnabled())
 			return true;
 		return false;
 	}
 	
-	public static boolean isDisplayed(WebElement element){
+	public boolean isDisplayed(WebElement element){
 		if(element.isDisplayed())
 			return true;
 		return false;
 	}
 	
-	public static void selectByText(WebElement element,String text){
+	public void selectByText(WebElement element,String text){
 		Select select=new Select(element);
 		select.selectByVisibleText(text);
 	}
 	
-	public static void selectByIndex(WebElement element,int index){
+	public void selectByIndex(WebElement element,int index){
 		Select select=new Select(element);
 		select.selectByIndex(index);
 	}
 	
-	public static void selectByValue(WebElement element,String value){
+	public void selectByValue(WebElement element,String value){
 		Select select=new Select(element);
 		select.selectByValue(value);
 	}
 	
-	public static String getFirstSelectedOption(WebElement element){
+	public String getFirstSelectedOption(WebElement element){
 		Select select=new Select(element);
 		return select.getFirstSelectedOption().getText();
 	}
 	
-	public static List<WebElement> getAllSelectedOptions(WebElement element){
+	public List<WebElement> getAllSelectedOptions(WebElement element){
 		Select select=new Select(element);
 		return select.getAllSelectedOptions();
 		}
 	
-	public  static List<WebElement> getAllOptions(WebElement element){
+	public List<WebElement> getAllOptions(WebElement element){
 		Select select=new Select(element);
 		return select.getOptions();
 	}
 	
-	public static void deSelectByText(WebElement element,String text){
+	public void deSelectByText(WebElement element,String text){
 		Select select=new Select(element);
 		select.deselectByVisibleText(text);
 	}
 	
-	public static void deSelectByIndex(WebElement element,int index){
+	public void deSelectByIndex(WebElement element,int index){
 		Select select=new Select(element);
 		select.deselectByIndex(index);
 	}
 	
-	public static void deSelectByValue(WebElement element,String value){
+	public void deSelectByValue(WebElement element,String value){
 		Select select=new Select(element);
 		select.deselectByValue(value);
 	}
 	
-	public static void click(WebElement element){
+	public void click(WebElement element){
 		Waits.waitUntil(() ->isDisplayed(element));
 		element.click();
 	}
 	
-	public static void clickOnlyIfElementPresent(WebElement element){
+	public void clickOnlyIfElementPresent(WebElement element){
 		if(isDisplayed(element))
 			element.click();
 	}
 	
-	public static Alert getAlert() {
+	public Alert getAlert() {
 		return Base.driver.switchTo().alert();
 	}
 	
-	public static void AcceptAlert() {
+	public void AcceptAlert() {
 		getAlert().accept();
 	}
 	
-	public static void DismissAlert() {
+	public void DismissAlert() {
 		getAlert().dismiss();
 	}
 
-	public static String getAlertText() {
+	public String getAlertText() {
 		String text = getAlert().getText();
 		return text;
 	}
 
-	public static boolean isAlertPresent() {
+	public boolean isAlertPresent() {
 		try {
 			Base.driver.switchTo().alert();
 			return true;
@@ -179,20 +178,20 @@ public class Elements {
 		}
 	}
 
-	public static void AcceptAlertIfPresent() {
+	public void AcceptAlertIfPresent() {
 		if (!isAlertPresent())
 			return;
 		AcceptAlert();
 	}
 
-	public static void DismissAlertIfPresent() {
+	public void DismissAlertIfPresent() {
 
 		if (!isAlertPresent())
 			return;
 		DismissAlert();
 	}
 	
-	public static void AcceptPrompt(String text) {
+	public void AcceptPrompt(String text) {
 		
 		if (!isAlertPresent())
 			return;
@@ -202,61 +201,46 @@ public class Elements {
 		alert.accept();
 	}
 
-	public static void scrollToElemet(WebElement element) {
+	public void scrollToElemet(WebElement element) {
 		Waits.tryJavascript("window.scrollTo(arguments[0],arguments[1])", element.getLocation().x, element.getLocation().y);
 	}
 	
-	public static void scrollToElemetAndClick(WebElement element) {
+	public void scrollToElemetAndClick(WebElement element) {
 		scrollToElemet(element);
 		element.click();
 	}
 
-	public static void scrollIntoView(WebElement element) {
+	public void scrollIntoView(WebElement element) {
 		Waits.tryJavascript("arguments[0].scrollIntoView()", element);
 	}
 
-	public static void scrollIntoViewAndClick(WebElement element) {
+	public void scrollIntoViewAndClick(WebElement element) {
 		scrollIntoView(element);
 		element.click();
 	}
 	
-	public static void scrollDownVertically() {
+	public void scrollDownVertically() {
 		Waits.tryJavascript("window.scrollTo(0, document.body.scrollHeight)");
 	}
 
-	public static void scrollUpVertically() {
+	public void scrollUpVertically() {
 		Waits.tryJavascript("window.scrollTo(0, -document.body.scrollHeight)");
 	}
 
-	public static void scrollDownByPixel() {
+	public void scrollDownByPixel() {
 		Waits.tryJavascript("window.scrollBy(0,1500)");
 	}
 
-	public static void scrollUpByPixel() {
+	public void scrollUpByPixel() {
 		Waits.tryJavascript("window.scrollBy(0,-1500)");
 	}
 
-	public static void ZoomInBypercentage() {
+	public void ZoomInBypercentage() {
 		Waits.tryJavascript("document.body.style.zoom='40%'");
 	}
 
-	public static void ZoomBy100percentage() {
+	public void ZoomBy100percentage() {
 		Waits.tryJavascript("document.body.style.zoom='100%'");
-	}
-
-	public static void Typetext(WebElement firstName, String string) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	public static void TypeText(WebElement firstName, org.apache.xpath.operations.String string) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	public static void findElement(By id) {
-		// TODO Auto-generated method stub
-		
 	}
 
 }
