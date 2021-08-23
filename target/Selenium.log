@@ -1,0 +1,688 @@
+2021-08-19 13:40:58 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 13:41:00 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-08-19 13:41:00 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 13:41:00 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-08-19 13:57:59 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 13:57:59 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-08-19 13:57:59 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 13:57:59 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-08-19 14:31:03 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 14:31:19 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-08-19 14:31:19 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 14:31:19 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-08-19 14:33:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 14:33:15 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-08-19 14:33:15 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 14:33:15 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-08-19 15:14:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 15:14:08 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-08-19 15:14:08 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 15:14:08 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-08-19 15:32:30 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 15:32:34 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-08-19 15:32:34 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 15:32:34 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-08-19 16:21:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 16:22:06 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-08-19 16:22:06 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 16:22:06 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-08-19 17:38:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 17:38:56 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-08-19 17:38:56 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 17:38:56 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-08-19 18:42:08 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 18:42:14 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-08-19 18:42:14 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 18:42:14 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-08-19 18:43:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 18:43:09 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-08-19 18:43:09 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 18:43:09 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-08-19 18:44:07 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 18:44:11 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-08-19 18:44:11 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 18:44:11 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-08-19 18:51:59 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 18:52:25 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1999135146
+2021-08-19 18:52:29 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 18:52:29 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-08-19 18:53:54 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 18:53:57 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1206180304
+2021-08-19 18:53:59 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 18:53:59 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-08-19 19:00:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 19:00:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1471019696
+2021-08-19 19:00:19 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 19:00:19 [INFO ] [Base] - [closeBrowser] Scenario Status is: undefined
+2021-08-19 19:02:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 19:02:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1206180304
+2021-08-19 19:02:18 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 19:02:18 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-08-19 19:03:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 19:03:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1572820532
+2021-08-19 19:04:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 19:04:33 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1526296937
+2021-08-19 19:04:46 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 19:04:46 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-08-19 19:05:51 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 19:05:51 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-08-19 19:29:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 19:30:03 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started666911607
+2021-08-19 19:30:03 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 19:30:03 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 19:30:06 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1415979460
+2021-08-19 19:30:19 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 19:30:19 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-08-19 19:30:20 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 19:30:20 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-19 20:03:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 20:03:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 20:03:29 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1495414981
+2021-08-19 20:03:31 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 20:03:31 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-19 20:05:38 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 20:05:38 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 20:05:42 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started161118423
+2021-08-19 20:06:54 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 20:06:54 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 20:06:57 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1640458320
+2021-08-19 20:07:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 20:07:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-19 20:11:06 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-08-19 20:11:06 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 20:11:06 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-19 20:14:27 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 20:14:27 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-19 20:14:30 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started424226973
+2021-08-19 20:14:44 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-19 20:14:44 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-20 14:09:49 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 14:09:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 14:09:56 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started538292941
+2021-08-20 14:10:08 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 14:10:08 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-20 15:14:27 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 15:14:27 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 15:14:31 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1004219512
+2021-08-20 15:14:34 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 15:14:34 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-20 15:28:17 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 15:28:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 15:28:20 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1206180304
+2021-08-20 15:28:54 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 15:28:54 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-20 19:06:42 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 19:06:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 19:06:49 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1793325972
+2021-08-20 19:07:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 19:07:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-20 19:10:11 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 19:10:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 19:10:13 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started310350177
+2021-08-20 19:10:18 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 19:10:18 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-20 19:13:46 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 19:13:46 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 19:13:48 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1232703108
+2021-08-20 19:13:50 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 19:13:50 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-20 19:16:56 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 19:16:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 19:16:59 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started55429210
+2021-08-20 19:17:28 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 19:17:28 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-20 19:18:34 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 19:18:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 19:18:36 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1781459498
+2021-08-20 19:19:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 19:19:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-20 22:56:13 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 22:56:13 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 22:56:21 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1900307803
+2021-08-20 22:56:38 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 22:56:38 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-20 23:05:03 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 23:05:03 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 23:05:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started624079697
+2021-08-20 23:05:53 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 23:05:53 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-20 23:11:56 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 23:11:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 23:11:58 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started624079697
+2021-08-20 23:12:45 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 23:12:45 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-20 23:31:39 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 23:31:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 23:31:43 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2140846441
+2021-08-20 23:32:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 23:32:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-20 23:45:30 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 23:45:30 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 23:45:32 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started624079697
+2021-08-20 23:46:20 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 23:46:20 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-20 23:52:04 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 23:52:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 23:52:06 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started70555476
+2021-08-20 23:52:54 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 23:52:54 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-20 23:58:57 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 23:58:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-20 23:59:01 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2071522666
+2021-08-20 23:59:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-20 23:59:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 00:14:11 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 00:14:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 00:14:13 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1781459498
+2021-08-21 00:15:02 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 00:15:02 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 00:15:31 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 00:15:31 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 00:15:33 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1781459498
+2021-08-21 00:16:21 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 00:16:21 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 00:17:35 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 00:17:35 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 00:17:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1781459498
+2021-08-21 00:18:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 00:18:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 01:17:21 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 01:17:21 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 01:17:27 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2071522666
+2021-08-21 01:18:14 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 01:18:14 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 01:28:26 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 01:28:26 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 01:28:28 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started318288344
+2021-08-21 01:29:16 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 01:29:16 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 11:24:13 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 11:24:13 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 11:24:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started339186291
+2021-08-21 11:24:34 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 11:24:34 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 11:25:58 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 11:25:58 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 11:26:02 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started990830650
+2021-08-21 11:26:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 11:26:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 11:45:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 11:45:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 11:45:24 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1516536489
+2021-08-21 11:46:29 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 11:46:29 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 11:54:50 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 11:54:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 11:54:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started546886525
+2021-08-21 11:55:56 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 11:55:56 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 12:02:56 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 12:02:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 12:03:00 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2008666311
+2021-08-21 12:04:06 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 12:04:06 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 12:09:22 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 12:09:22 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 12:09:25 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1916720513
+2021-08-21 12:10:29 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 12:10:29 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 12:12:29 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 12:12:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 12:12:32 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started55429210
+2021-08-21 12:13:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 12:13:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 12:41:38 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 12:41:38 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 12:41:45 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2071522666
+2021-08-21 12:42:46 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 12:42:46 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 13:19:48 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 13:19:48 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 13:19:53 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started463494712
+2021-08-21 13:21:02 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 13:21:02 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 13:30:22 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 13:30:22 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 13:30:26 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1953290071
+2021-08-21 13:31:26 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 13:31:26 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 14:38:44 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 14:38:44 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 14:38:49 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1875532039
+2021-08-21 14:39:37 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 14:39:37 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 14:46:41 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 14:46:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 14:46:42 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1516536489
+2021-08-21 14:47:34 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 14:47:34 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-21 14:52:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 14:52:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-21 14:52:45 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1516536489
+2021-08-21 14:53:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-21 14:53:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-22 01:04:50 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:04:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-22 01:05:02 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1793325972
+2021-08-22 01:06:13 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:06:13 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-22 01:13:12 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:13:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-22 01:13:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1953290071
+2021-08-22 01:14:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:14:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-22 01:21:06 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:21:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-22 01:21:11 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1048444228
+2021-08-22 01:22:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:22:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-22 01:27:09 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:27:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-22 01:27:12 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started546886525
+2021-08-22 01:28:46 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:28:46 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-22 01:33:06 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:33:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-22 01:33:11 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1953290071
+2021-08-22 01:34:45 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:34:45 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-22 01:46:51 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:46:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-22 01:46:56 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started182678201
+2021-08-22 01:48:14 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:48:14 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-22 01:50:29 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:50:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-22 01:50:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1953290071
+2021-08-22 01:52:11 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:52:11 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-22 01:59:19 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 01:59:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-22 01:59:24 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2140846441
+2021-08-22 02:00:59 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 02:00:59 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-22 02:11:31 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 02:11:31 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-22 02:11:40 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started534662976
+2021-08-22 02:11:57 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 02:11:57 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-22 02:12:40 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 02:12:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-22 02:12:42 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1414924274
+2021-08-22 02:14:16 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 02:14:16 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-22 02:17:42 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 02:17:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-22 02:17:44 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1516536489
+2021-08-22 02:19:17 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-22 02:19:17 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 00:09:51 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 00:09:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 00:09:56 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1858493278
+2021-08-23 00:11:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 00:11:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 00:23:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 00:23:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 00:23:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started113416412
+2021-08-23 00:25:07 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 00:25:07 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 00:50:36 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 00:50:36 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 00:50:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started113416412
+2021-08-23 00:52:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 00:52:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 01:11:05 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 01:11:05 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 01:11:09 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started13928051
+2021-08-23 01:12:41 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 01:12:41 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 01:12:42 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to login with valid credential
+2021-08-23 01:12:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 01:12:43 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1080561710
+2021-08-23 01:13:14 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to login with valid credential
+2021-08-23 01:13:14 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-08-23 12:51:13 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 12:51:13 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 12:51:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2079051109
+2021-08-23 12:52:55 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 12:52:55 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 12:52:57 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 12:52:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 12:52:58 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started162667475
+2021-08-23 12:54:16 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 12:54:16 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-08-23 12:57:49 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 12:57:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 12:57:51 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started957387062
+2021-08-23 12:59:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 12:59:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 12:59:24 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 12:59:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 12:59:25 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started103433239
+2021-08-23 13:00:43 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 13:00:43 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-08-23 13:05:24 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 13:05:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 13:05:27 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started113416412
+2021-08-23 13:06:59 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 13:06:59 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 13:07:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 13:07:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 13:07:01 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started920497855
+2021-08-23 13:08:18 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 13:08:18 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 14:47:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 14:47:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 14:47:46 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2063275841
+2021-08-23 14:49:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 14:49:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-08-23 14:49:24 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 14:49:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 14:49:25 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started278536229
+2021-08-23 14:50:28 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 14:50:28 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-08-23 15:44:49 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 15:44:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 15:44:51 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1953290071
+2021-08-23 15:46:26 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 15:46:26 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-08-23 15:46:27 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 15:46:27 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 15:46:28 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started239648666
+2021-08-23 15:47:45 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 15:47:45 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 15:50:41 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 15:50:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 15:50:44 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2063275841
+2021-08-23 15:52:17 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 15:52:17 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 15:52:17 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 15:52:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 15:52:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started520830206
+2021-08-23 15:53:38 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 15:53:38 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 16:04:46 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 16:04:46 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 16:04:49 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started194408994
+2021-08-23 16:06:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 16:06:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 16:06:23 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 16:06:23 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 16:06:24 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1023344953
+2021-08-23 16:07:42 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 16:07:42 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 16:11:48 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 16:11:48 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 16:11:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started463494712
+2021-08-23 16:13:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 16:13:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 16:13:24 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 16:13:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 16:13:25 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1261321871
+2021-08-23 16:14:42 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 16:14:42 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 16:16:07 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 16:16:07 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 16:16:09 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started194408994
+2021-08-23 16:17:42 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 16:17:42 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 16:17:42 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 16:17:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 16:17:43 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1023344953
+2021-08-23 16:19:03 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 16:19:03 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 16:32:39 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 16:32:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 16:32:41 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1048444228
+2021-08-23 16:34:15 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 16:34:15 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 16:34:15 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 16:34:15 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 16:34:17 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started252276535
+2021-08-23 16:35:34 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 16:35:34 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 16:59:34 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 16:59:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 16:59:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2063275841
+2021-08-23 17:01:12 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 17:01:12 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 17:01:12 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 17:01:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 17:01:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started351216770
+2021-08-23 17:02:31 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 17:02:31 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 17:02:32 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 17:02:32 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 17:02:33 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1446243714
+2021-08-23 17:03:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 17:03:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-08-23 17:58:54 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 17:58:54 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 17:58:58 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started113416412
+2021-08-23 18:00:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 18:00:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 18:00:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 18:00:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 18:00:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started306889029
+2021-08-23 18:01:55 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 18:01:55 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 18:01:56 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 18:01:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 18:01:59 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1618489605
+2021-08-23 18:03:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 18:03:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 18:08:26 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 18:08:26 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 18:08:29 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started70555476
+2021-08-23 18:10:02 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 18:10:02 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 18:10:03 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 18:10:03 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 18:10:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1728897841
+2021-08-23 18:11:24 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 18:11:24 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 18:11:25 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 18:11:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 18:11:26 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1518529528
+2021-08-23 18:13:00 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 18:13:00 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 18:13:07 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 18:13:07 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 18:13:11 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1916720513
+2021-08-23 18:14:45 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 18:14:45 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 18:14:46 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 18:14:46 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 18:14:47 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1056953587
+2021-08-23 18:16:05 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 18:16:05 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 18:16:06 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 18:16:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 18:16:09 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2011636843
+2021-08-23 18:17:43 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 18:17:43 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 18:38:49 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 18:38:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 18:38:53 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started318288344
+2021-08-23 18:40:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 18:40:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 18:40:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 18:40:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 18:40:30 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started280862192
+2021-08-23 18:41:48 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 18:41:48 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 18:41:48 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 18:41:48 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 18:41:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started438874950
+2021-08-23 18:43:26 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 18:43:26 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 18:43:27 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 18:43:27 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 18:43:28 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started318755294
+2021-08-23 18:45:02 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 18:45:02 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-08-23 19:09:47 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:09:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:09:54 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started52354732
+2021-08-23 19:11:28 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:11:28 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 19:11:29 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 19:11:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:11:32 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1705281026
+2021-08-23 19:12:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 19:12:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 19:12:50 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 19:12:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:12:52 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1987154353
+2021-08-23 19:14:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 19:14:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 19:14:27 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:14:27 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:14:29 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1539477312
+2021-08-23 19:16:02 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:16:02 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 19:17:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:17:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:17:32 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started681979935
+2021-08-23 19:19:06 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:19:06 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 19:19:06 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 19:19:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:19:09 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1363989824
+2021-08-23 19:20:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 19:20:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 19:20:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 19:20:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:20:30 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1372483461
+2021-08-23 19:22:05 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 19:22:05 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 19:22:06 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:22:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:22:09 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2083215552
+2021-08-23 19:23:42 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:23:42 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 19:43:46 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:43:46 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:43:49 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1048444228
+2021-08-23 19:45:22 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:45:22 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 19:45:22 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 19:45:22 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:45:24 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started252276535
+2021-08-23 19:45:42 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:45:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:45:45 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1048444228
+2021-08-23 19:46:42 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 19:46:42 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 19:46:42 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 19:46:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:46:43 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started665419272
+2021-08-23 19:47:19 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:47:19 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 19:47:19 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 19:47:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:47:21 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started252276535
+2021-08-23 19:48:16 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 19:48:16 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 19:48:17 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:48:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:48:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started542895457
+2021-08-23 19:48:38 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 19:48:38 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 19:48:39 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 19:48:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:48:41 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started665419272
+2021-08-23 19:49:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:49:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 19:50:13 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 19:50:13 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 19:50:14 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:50:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 19:50:15 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started542895457
+2021-08-23 19:51:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 19:51:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 23:39:57 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 23:39:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 23:40:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started407263135
+2021-08-23 23:41:39 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 23:41:39 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 23:43:04 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 23:43:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 23:43:07 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started834842620
+2021-08-23 23:44:24 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 23:44:24 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 23:45:41 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 23:45:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 23:45:42 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started231351829
+2021-08-23 23:47:15 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 23:47:15 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 23:51:59 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 23:51:59 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 23:52:01 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started214055354
+2021-08-23 23:53:34 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 23:53:34 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 23:53:35 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-23 23:53:35 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 23:53:36 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1693540983
+2021-08-23 23:54:53 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-23 23:54:53 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-23 23:54:54 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 23:54:54 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 23:54:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1185502159
+2021-08-23 23:56:30 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-23 23:56:30 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-23 23:56:31 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 23:56:31 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-23 23:56:32 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1446238973
+2021-08-23 23:58:04 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-23 23:58:04 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-24 00:04:16 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-24 00:04:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-24 00:04:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1385140107
+2021-08-24 00:05:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-24 00:05:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-24 00:10:39 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-24 00:10:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-24 00:10:41 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1778801068
+2021-08-24 00:12:14 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-24 00:12:14 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-24 00:16:53 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-24 00:16:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-24 00:16:58 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started214055354
+2021-08-24 00:18:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-24 00:18:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-24 00:18:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-24 00:18:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-24 00:18:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1232792716
+2021-08-24 00:19:52 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-24 00:19:52 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-24 00:19:53 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-24 00:19:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-24 00:19:54 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started357291163
+2021-08-24 00:21:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-24 00:21:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-24 00:21:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-24 00:21:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-24 00:21:29 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1565614310
+2021-08-24 00:23:01 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-24 00:23:01 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-24 00:42:57 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-24 00:42:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-24 00:43:02 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1934908288
+2021-08-24 00:44:35 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-24 00:44:35 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-24 00:44:36 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is not able to create account
+2021-08-24 00:44:36 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-24 00:44:40 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1897732690
+2021-08-24 00:45:59 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is not able to create account
+2021-08-24 00:45:59 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-08-24 00:46:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-24 00:46:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-24 00:46:03 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started262878641
+2021-08-24 00:47:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2021-08-24 00:47:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-08-24 00:47:37 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user is able to register into the application by providing all the detail
+2021-08-24 00:47:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-08-24 00:47:41 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1845137754
+2021-08-24 00:49:15 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user is able to register into the application by providing all the detail
+2021-08-24 00:49:15 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
