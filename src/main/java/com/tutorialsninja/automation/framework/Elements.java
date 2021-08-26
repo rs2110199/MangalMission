@@ -259,4 +259,9 @@ public class Elements {
 		
 	}
 
+	public static void SendKeys(WebElement email, String user_name) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

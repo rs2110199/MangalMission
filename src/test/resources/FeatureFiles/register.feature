@@ -7,7 +7,7 @@ Scenario: Verify wheather user is able to register into the application by provi
            When  I provide all the below detail
            |FirstName | Karan                    |
            |LastName  | Mehara                   |
-           |E-mail    | rewr@gmail.com     |
+           |E-mail    | rewr@Gmail.com     |
            |Telephone | 9806558045               | 
            |Password  | D1$raj321                |
            |Confirm_Password | D1$raj321         |  
@@ -31,7 +31,7 @@ Scenario: Verify wheather user is not able to create account
            When  I provide all the below detail
            |FirstName | Ravi                        |
            |LastName  | Kiran                       |
-           |E-mail    | Ravi.kiran2@gmail.com       |
+           |E-mail    | Ravi.kiran2@Gmail.com       |
            |Telephone | 9806558046                  | 
            |Password  |    Raja213                  |
            |Confirm_Password |  Raja213             |
@@ -47,7 +47,7 @@ Scenario: Verify wheather user is able to register into the application by provi
            When  I provide all the below detail
            |FirstName | Karan                    |
            |LastName  | Mehara                   |
-           |E-mail    | rewr@gmail.com           |
+           |E-mail    | rewr@Gmail.com           |
            |Telephone | 9806558045               | 
            |Password  | D1$raj321                |
            |Confirm_Password | D1$raj321         |  
